@@ -26,7 +26,7 @@ Set up an admin account.
 ```python
     >>> python manage.py makemigrations
 ```
-Migrate database.
+
 ```python
     >>> python manage.py migrate
 ```
@@ -40,11 +40,19 @@ Go to http://127.0.0.1:8000/admin and add your data.
 Available endpoints
 
 http://127.0.0.1:8000/2.4
+
 http://127.0.0.1:8000/2.4/accesses
+
 http://127.0.0.1:8000/2.4/orders
+
 http://127.0.0.1:8000/2.4/subscriptions
+
 http://127.0.0.1:8000/2.4/accesses
+
 http://127.0.0.1:8000/2.4/orders
+
 http://127.0.0.1:8000/2.4/option82
+
 http://127.0.0.1:8000/2.4/dhcplookup
+
 #
