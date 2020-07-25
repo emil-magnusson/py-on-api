@@ -1,7 +1,7 @@
 # py-on-api
  ***py-on-api** Open Networks API (ON-API) written in python.
+ A dummy service to rapid up development for service providers. No logic just ont-to-one mapping betwen endpoints and sql tables.
  
-
 
 ## API Documentation ##
 https://github.com/on-api/on-api
@@ -39,7 +39,7 @@ Go to http://127.0.0.1:8000/admin and add your data.
 
 Available endpoints
 
-http://127.0.0.1:8000/2.4
+#http://127.0.0.1:8000/2.4
 
 http://127.0.0.1:8000/2.4/accesses
 
