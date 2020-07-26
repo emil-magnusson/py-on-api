@@ -18,7 +18,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Usage 
-Set up an admin account.
+
 ```python
     >>> python manage.py createsuperuser --username admin --email admin@example.com
 ```
