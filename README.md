@@ -1,6 +1,6 @@
 # py-on-api
  ***py-on-api** Open Networks API (ON-API) written in python.
- A dummy service to rapid up development for service providers. No logic just ont-to-one mapping betwen endpoints and sql tables.
+ A dummy service to rapid up development for service providers. No business logic implemented just ont-to-one mapping betwen endpoints and sql tables.
  
 
 ## API Documentation ##
