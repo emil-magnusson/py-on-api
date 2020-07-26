@@ -35,7 +35,7 @@ Set up an admin account.
     >>> python manage.py runserver
 ```
 
-Go to http://127.0.0.1:8000/admin and add your data.
+Go to http://127.0.0.1:8000/admin and import your data.
 
 Available endpoints.
 
